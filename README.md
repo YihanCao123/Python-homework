@@ -19,4 +19,6 @@
 
 2020/02/19    22:11   submitted pandas-exercises 1a
 
-202/02/21      17:21   submitted pandas-exercises  1b
+2020/02/21      17:21   submitted pandas-exercises  1b
+
+2020/02/23     17:10    submitted pandas-exercise 2a
