@@ -28,3 +28,5 @@
 2020/02/26     21:11   submitted pandas-exercise 2c
 
 2020/03/01     17:02   submitted pandas-exercise grouping
+
+2020/03/05     15:34   submitted pandas-exercise apply
