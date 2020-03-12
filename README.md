@@ -30,3 +30,5 @@
 2020/03/01     17:02   submitted pandas-exercise grouping
 
 2020/03/05     15:34   submitted pandas-exercise apply
+
+2020/03/12     13:22   submitted pandas-exercise merge
