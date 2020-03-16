@@ -32,3 +32,5 @@
 2020/03/05     15:34   submitted pandas-exercise apply
 
 2020/03/12     13:22   submitted pandas-exercise merge
+
+2020/03/16     18:00   submitted pandas-exercise stats
